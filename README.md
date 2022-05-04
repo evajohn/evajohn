@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am John, I work as a kernel developer working mostly on High Performance Networking in the Linux Kernel.
+
+My Skills include:
+- Design and Development of communication stacks for High Performance Computing(HPC) interconnects.
+- Linux Systems Programming
+- Linux Kernel Development
+- Linux Device Drivers
+
 <!--
 **evajohn/evajohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
